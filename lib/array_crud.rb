@@ -2,8 +2,13 @@ def create_an_empty_array
   []
 end
 
+<<<<<<< HEAD
 def create_an_array
   ["blue", "red", "yellow", "purple"]
+=======
+def create_an_array.new[true, 1, 4, false]
+  puts create_an_array.new
+>>>>>>> 16037ff2cec55594f2c211dfc227b6cf1c1332e5
 end
 
 def add_element_to_end_of_array(array, element)
